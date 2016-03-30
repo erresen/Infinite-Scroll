@@ -1,0 +1,35 @@
+body {
+    background-color: #eee;
+    margin: 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.top {
+    background-color: #fdfdfd;
+    border-bottom: 2px solid #666;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 0.2em;
+}
+
+.header {
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+    color: #222;
+}
+
+.content {
+    padding: 25px 25px 100px 25px;
+    margin: 0 0 50px 0;
+    background-color: #fdfdfd;
+    box-shadow: 0 0 100px #ccc;
+}
+
+#content-container {
+    padding-top: 80px;
+}
